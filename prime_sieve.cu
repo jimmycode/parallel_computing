@@ -2,7 +2,7 @@
 #include "stdlib.h"
 #include "time.h"
 #define idx threadIdx.x
-#define COM_COST 20
+#define COM_COST 100
 
 __global__ void init(bool* prime, int n, int step) {
     int start = step * idx; // including start
