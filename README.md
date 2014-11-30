@@ -8,6 +8,7 @@ Copyright by Yuxiang Wu
 * Assignment 2.docx ------Report for assignment 2
 * README.md          ------     You are staring at it
 * prime_sieve.cu       ------     CUDA source code for this assignment
+* prime_sieve       ------     CUDA binary program
 * result.csv                ------     Results of no so large test cases
 * result.xlsx                ------    Results and diagrams of no so large test cases
 * result_large.csv      ------     Results of large test cases
